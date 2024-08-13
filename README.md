@@ -44,5 +44,19 @@ The patient scores were then split into training and validation sets (70/30) 100
 
 ### Scripts
 
-*
+* lasso.py
+  * Splits data into training & validation sets before performing a LASSO regression
+  * Repeats process 100 times
+* catenate.py
+  * Takes important variable files from LASSO results and concatenates them into one file
+  * test_catenate.py
+    * Same thing, but with model performance
+* coeff_traits.R
+  * Adds "Mapped Traits" column based on PGSCatalog
+* bar_plot.R
+  * Plots the top and bottom 25 traits ranked by descending average coefficients
+
+### Pipeline
+
+![alt text](flowchart.png "Generalized Pipeline")
 

@@ -55,6 +55,8 @@ The patient scores were then split into training and validation sets (70/30) 100
   * Adds "Mapped Traits" column based on PGSCatalog
 * bar_plot.R
   * Plots the top and bottom 25 traits ranked by descending average coefficients
+* test_lasso.py
+  * Runs two LASSO models with the same training / validation set and tests them with bipolar scores & without
 
 ### Pipeline
 

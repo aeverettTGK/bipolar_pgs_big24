@@ -4,10 +4,10 @@ Alex Everett's project for the UCLA Bruins-in-Genomics summer program in 2024. A
 
 ## Authors
 
-Alex Everett
-Naren Ramesh
-Lingyu Zhan
-Roel Ophoff
+- Alex Everett
+- Naren Ramesh
+- Lingyu Zhan
+- Roel Ophoff
 
 Center for Neurobehavioral Genetics, Semel Institute for Neuroscience and Human Behavior and Department of Human Genetics, David Geffen School of Medicine, University of California Los Angeles, Los Angeles, CA, USA
 
